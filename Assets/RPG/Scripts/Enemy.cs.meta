@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 63678c9232f8f2742a0ba4619e2d849c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battleController: {instanceID: 0}
+  - attackWarning: {instanceID: 0}
+  - indicator: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - mySounds: {instanceID: 0}
+  - clickSound: {fileID: 8300000, guid: 0eacda7154825144294f7c196fe90f13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

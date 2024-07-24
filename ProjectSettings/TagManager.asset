@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShootMarble
+  - TopHalf
+  - BottomHalf
+  - bluePathMarble
+  - greenPathMarble
+  - orangePathMarble
+  - redPathMarble
+  - PathMarble
+  - ActivityManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pause
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bedrock
+    uniqueID: 1326866537
+    locked: 0
+  - name: Background Under
+    uniqueID: 449841859
+    locked: 0
+  - name: Background
+    uniqueID: 4237709879
+    locked: 0
+  - name: Sub Sub Sub Sub Background
+    uniqueID: 1925440037
+    locked: 0
+  - name: Sub Sub Sub Background
+    uniqueID: 3695241459
+    locked: 0
+  - name: Sub Sub Background
+    uniqueID: 3729438887
+    locked: 0
+  - name: SubBack
+    uniqueID: 1372616609
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 2734612615
+    locked: 0
+  - name: Overlay
+    uniqueID: 494314081
+    locked: 0
+  - name: Overlay Prime
+    uniqueID: 128509245
+    locked: 0
+  - name: Overlay Prime Prime
+    uniqueID: 2059987691
+    locked: 0
+  - name: Pause
+    uniqueID: 2202795579
+    locked: 0

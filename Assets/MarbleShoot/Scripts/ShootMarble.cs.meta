@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6261d4766707def44a9bab726f949bfc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - pathPrefab: {instanceID: 0}
+  - spawner: {instanceID: 0}
+  - activityManager: {instanceID: 0}
+  - mySounds: {instanceID: 0}
+  - collidedSound: {fileID: 8300000, guid: 81e1d05eddc40af40915ce479ece682c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
